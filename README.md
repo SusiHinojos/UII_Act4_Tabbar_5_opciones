@@ -8,3 +8,5 @@
 
 ## android
 <img width="416" height="697" alt="image" src="https://github.com/user-attachments/assets/7400257f-f43b-4081-aaf4-6ec2ceccb9b6" />
+<img width="417" height="697" alt="image" src="https://github.com/user-attachments/assets/993a7cbb-1774-4908-be8e-ce4c1d123924" />
+<img width="459" height="708" alt="image" src="https://github.com/user-attachments/assets/38211e35-88c1-4f10-80ca-302435365e0f" />
